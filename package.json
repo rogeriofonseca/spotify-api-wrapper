@@ -47,7 +47,10 @@
     "eslint-plugin-import": "^2.6.1",
     "husky": "^0.11.9",
     "mocha": "^8.2.1",
+    "node-fetch": "^2.6.1",
     "nyc": "^15.1.0",
-    "rimraf": "^2.6.1"
+    "rimraf": "^2.6.1",
+    "sinon": "^9.2.4",
+    "sinon-chai": "^3.5.0"
   }
 }
